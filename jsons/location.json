@@ -1,0 +1,28 @@
+{
+    "addresses": [
+        {
+            "address": "软件谷科创城",
+            "address_detail": "D2南16楼",
+            "city_id": 6,
+            "city_name": "",
+            "created_at": 1539576119000,
+            "district_id": 5273,
+            "entry_id": 3,
+            "geohash": null,
+            "id": 2500460800285917,
+            "is_valid": 1,
+            "name": "范珍",
+            "phone": "13383839248",
+            "phone_bk": null,
+            "poi_type": 0,
+            "sex": 2,
+            "st_geohash": "wtsmwn4v9yw8",
+            "tag": "公司",
+            "tag_type": 3,
+            "user_id": 14547420
+        }
+    ],
+    "has_address": true,
+    "other_address": null,
+    "type": 2
+}

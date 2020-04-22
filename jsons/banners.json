@@ -1,0 +1,37 @@
+[
+    {
+        "banner_type": 1,
+        "id": 20104529,
+        "image_hash": "705bb01f6e34c18a0e12d39b7c98e6f6jpeg",
+        "is_ad_flag_visible": 0,
+        "rank_id": "5f5dbe6f44f54b4a8bb2c198744d7bae",
+        "url": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Fcreditcard.bankcomm.com%2Fcontent%2Fdam%2Fphone%2Factivities%2Fwaimai%2Felm%2Findex.html%3Factivity_ids%3D%255B10181537%255D&title=&navType=0&animation_type=1"
+    },
+    {
+        "banner_type": 1,
+        "id": 20104537,
+        "image_hash": "5e6955bdd098effd615d144441084118jpeg",
+        "is_ad_flag_visible": 0,
+        "rank_id": "5f5dbe6f44f54b4a8bb2c198744d7bae",
+        "ranking_weight": 0,
+        "url": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Ftb.ele.me%2Fwow%2Fzele%2Fact%2Fsvipjiaohang419%3Fwh_biz%3Dtm%26activity_ids%3D%255B10400002%255D&title=&navType=0&animation_type=1"
+    },
+    {
+        "banner_type": 1,
+        "id": 20162739,
+        "image_hash": "0ffedc9f276114b06237b7b50c21e505jpeg",
+        "is_ad_flag_visible": 0,
+        "rank_id": "5f5dbe6f44f54b4a8bb2c198744d7bae",
+        "ranking_weight": 0,
+        "url": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Ftb.ele.me%2Fwow%2Fzele%2Fact%2Fjiaotongyinhang%3Fwh_biz%3Dtm%26activity_ids%3D%255B10400026%255D&title=&navType=0&animation_type=1"
+    },
+    {
+        "banner_type": 1,
+        "id": 20225923,
+        "image_hash": "0fac1b9729c2e8bdcc85c9165020a9f5png",
+        "is_ad_flag_visible": 0,
+        "rank_id": "5f5dbe6f44f54b4a8bb2c198744d7bae",
+        "ranking_weight": 0,
+        "url": "eleme://web?navColor=&target_name=&url=http%3A%2F%2Fzj.189.cn%2Fzjcard%2Fwap%2Fele%2Fele.html%3Factivity_ids%3D%255B10410370%255D%26cmpid%3Djt-al...ps.jtalykelemeyucard%26ct%3D0&title=&navType=0&animation_type=1"
+    }
+]
